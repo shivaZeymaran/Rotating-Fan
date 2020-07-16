@@ -1,6 +1,7 @@
 # Rotating-Fan
 Embedded Real-time Systems Course
 The goal is designing a Rotating Fan with FreeRTOS that is a kind of Real-time Operating Systems.
+
 Main code is a file like .ino that contains Arduino code.
 
 Code consits of two tasks one for DC motor and one for Servo motor. 
